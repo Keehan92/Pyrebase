@@ -1,5 +1,8 @@
 # Pyrebase
 
+## Fork with an updated requirements to 2.22
+
+
 A simple python wrapper for the [Firebase API](https://firebase.google.com).
 
 ## Support
